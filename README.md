@@ -8,3 +8,5 @@ What first came to mind was a 2D game that utilises a black background to force 
 Once I had the foundations of the game, I could begin working on the levels. Since it was a game jam and I only had a couple of days to work on it, I couldn't feasibly design lots of levels to make a long game. Instead, I made the game as almost one big level that could be replayed multiple times to achieve a higher score. I also implemented a shop that the player could buy power-ups from to improve the replayability by making each playthrough different. 
 
 The working title for the game was 'Shadow Thief' for a long time. It was only when I decided on what the player would win upon completion that I changed the name to 'Lavish Rubber Chicken'.
+
+To run the game, go into the 'builds' folder. From here, you will find several builds of the game, the most recent of which will be the best. Download the folder and run the .exe file to play the game.
